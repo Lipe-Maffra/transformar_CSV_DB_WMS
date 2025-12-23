@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.Python
+
+# Virtual env
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
+
+# Data / DB
+*.db
+*.sqlite
+*.sqlite3
+data/
+
+# OS
+Thumbs.db
+Desktop.ini
